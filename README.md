@@ -1,3 +1,18 @@
+# More music  #
+more-music is a music app that lets you discover top songs and their lyrics
+- http://rythae.github.io/more-lyrics
+
+## **Getting Started** ##
+
+## **Clone the Repo.** ##
+Run npm install to install all necessary packages.
+
+### **Prerequisites** ###
+The following tools will be needed to run this application successfully:
+
+### Node v8.11.3 or above ###
+### Npm v5.6 or above ###
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

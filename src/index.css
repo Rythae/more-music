@@ -6,9 +6,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to top, #f97394 0%, #f8f8f8 100%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.center {
+  background-image: url("components/music.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  /* background-color: rgba(0, 0, 0, 0.8); */
+  box-shadow: ##ffffff 9px 0px 4px;
+  color: #ffffff;
+}
+
+.text {
+  color: #ffffff;
 }
